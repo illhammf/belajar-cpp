@@ -5,7 +5,7 @@ int main()
 {
     // Mendeklarasikan variabel biodata mahasiswa dengan tipe data string dan integer
     std::string nama = "Ilham";
-    std::string nim = "12345678";
+    std::string nim = "20240801102";
     std::string jurusan = "Teknik Informatika";
     int semester = 4;
 
