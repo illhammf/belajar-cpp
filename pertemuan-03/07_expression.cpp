@@ -6,6 +6,7 @@ int main()
     int a = 10;
     int b = 5;
 
+    // Expression adalah kombinasi dari variabel, operator, dan nilai yang menghasilkan sebuah nilai
     int hasil1 = a + b;
     int hasil2 = (a + b) * 2;
     int hasil3 = a * b + 10;
