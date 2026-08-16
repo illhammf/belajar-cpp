@@ -9,6 +9,7 @@ int main()
     {
         cout << "Kamu sudah cukup umur." << endl;
     }
+    // Kalo kita membuat umur kurang dari 17, maka tidak akan menampilkan output apapun karena tidak ada kondisi else yang menangani kasus tersebut.
 
     return 0;
 }
