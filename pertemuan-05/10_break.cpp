@@ -5,7 +5,7 @@ int main()
 {
     for (int i = 1; i <= 10; i++)
     {
-        if (i == 5)
+        if (i == 5) // Jika i sama dengan 5, maka hentikan perulangan
         {
             break;
         }
