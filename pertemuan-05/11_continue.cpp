@@ -5,7 +5,7 @@ int main()
 {
     for (int i = 1; i <= 5; i++)
     {
-        if (i == 3) // Jika i sama dengan 3, maka hentikan perulangan
+        if (i == 3) // Jika i sama dengan 3, maka hentikan perulangan, tapi lanjutkan ke iterasi berikutnya
         {
             continue; // Lanjutkan ke iterasi berikutnya
         }
