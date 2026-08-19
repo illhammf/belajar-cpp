@@ -3,7 +3,7 @@ using namespace std;
 
 void sapa() // fungsi sederhana untuk menyapa
 {
-    cout << "Halo, selamat belajar C++!" << endl;
+    cout << "Haloo, selamat belajar C++ dan selalu semangat!" << endl;
 }
 
 int main()
