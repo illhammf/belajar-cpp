@@ -8,6 +8,8 @@ bool isGenap(int angka) // Fungsi untuk memeriksa apakah sebuah bilangan genap a
 
 int main()
 {
+    cout << boolalpha; // Mengatur output boolean menjadi true/false yang tadinya 1/0
+
     cout << isGenap(10) << endl;
     cout << isGenap(7) << endl;
 
