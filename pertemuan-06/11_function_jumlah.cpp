@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Penggabungan function, parameter, looping, return value, dan if statement
 int jumlahAngka(int batas)
 {
     int total = 0;
