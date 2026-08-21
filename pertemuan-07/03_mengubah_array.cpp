@@ -13,7 +13,7 @@ int main()
     cout << nilai[3] << endl;
     cout << nilai[4] << endl;
 
-    nilai[0] = 100;
+    nilai[0] = 100; // Mengubah nilai pada indeks ke-0, yang sebelumnya 80 menjadi 100
 
     cout << endl;
 
