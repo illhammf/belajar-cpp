@@ -7,7 +7,7 @@ int main()
 {
     string kalimat = "Saya sedang belajar C++";
 
-    if (kalimat.find("C++") != string::npos) // find() digunakan untuk mencari posisi string, jika tidak ditemukan akan mengembalikan nilai string::npos
+    if (kalimat.find("ilham") != string::npos) // find() digunakan untuk mencari posisi string, jika tidak ditemukan akan mengembalikan nilai string::npos
     {
         cout << "Teks ditemukan." << endl;
     }
