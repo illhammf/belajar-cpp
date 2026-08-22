@@ -10,6 +10,8 @@ int main()
     cout << "Karakter pertama: " << nama[0] << endl;
     cout << "Karakter kedua  : " << nama[1] << endl;
     cout << "Karakter ketiga : " << nama[2] << endl;
+    cout << "Karakter keempat: " << nama[3] << endl;
+    cout << "Karakter kelima : " << nama[4] << endl;
 
     return 0;
 }
