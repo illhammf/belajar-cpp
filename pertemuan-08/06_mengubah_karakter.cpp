@@ -9,7 +9,7 @@ int main()
 
     cout << "Sebelum diubah: " << nama << endl;
 
-    nama[0] = 'A';
+    nama[0] = 'A'; // Mengubah karakter pertama dari 'I' menjadi 'A'
 
     cout << "Setelah diubah: " << nama << endl;
 
