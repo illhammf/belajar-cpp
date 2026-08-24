@@ -10,7 +10,7 @@ int main()
 
     cout << "Sebelum: " << angka << endl;
 
-    ref = 100;
+    ref = 100; // Karena ref merupakan alias dari angka.
 
     cout << "Sesudah: " << angka << endl;
 
