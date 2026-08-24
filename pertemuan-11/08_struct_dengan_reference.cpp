@@ -10,7 +10,7 @@ struct Mahasiswa
     float ipk;
 };
 
-void tambahUmur(Mahasiswa& mahasiswa)
+void tambahUmur(Mahasiswa& mahasiswa) // Karena menggunakan Reference, Function dapat mengubah Struct asli.
 {
     mahasiswa.umur++;
 }
