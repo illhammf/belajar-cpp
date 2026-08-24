@@ -10,7 +10,7 @@ int main()
 
     cout << "Sebelum: " << angka << endl;
 
-    *pointer = 100;
+    *pointer = 100; // yang awalnya 10, diubah menjadi 100
 
     cout << "Sesudah: " << angka << endl;
 
