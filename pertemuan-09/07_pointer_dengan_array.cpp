@@ -13,7 +13,6 @@ int main()
     int* pointer = angka;
 
     cout << "Nilai pertama: " << *pointer << endl;
-    cout << "Nilai kedua: " << *pointer << endl;
 
     return 0;
 }
