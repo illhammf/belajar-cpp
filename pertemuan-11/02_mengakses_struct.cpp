@@ -1,0 +1,27 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+struct Mahasiswa
+{
+    string nama;
+    int umur;
+    float ipk;
+};
+
+int main()
+{
+    Mahasiswa mahasiswa; // operator dari Mahasiswa
+
+    mahasiswa.nama = "Ilham";
+    mahasiswa.umur = 20;
+    mahasiswa.ipk = 3.75;
+
+    cout << "=== Data Mahasiswa ===" << endl;
+    cout << "Nama    : " << mahasiswa.nama << endl;
+    cout << "Umur    : " << mahasiswa.umur << endl;
+    cout << "IPK     : " << mahasiswa.ipk << endl;
+
+    return 0;
+}
