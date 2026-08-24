@@ -11,7 +11,7 @@ int main()
 
     cout << "Nama awal: " << nama << endl;
 
-    ref = "Budi";
+    ref = "Budi"; // Mengubah ref yang tadinya Ilham menjadi Budi
 
     cout << "Nama akhir: " << nama << endl;
 
