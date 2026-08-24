@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void tampilkanNama(const string& nama)
+void tampilkanNama(const string& nama) // Di sini Function hanya membaca nama, kita tidak ingin Function mengubah nama
 {
     cout << "Nama: " << nama << endl;
 }
