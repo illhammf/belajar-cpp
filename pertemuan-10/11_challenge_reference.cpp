@@ -13,7 +13,7 @@ int main()
 
     cout << "Sebelum: " << angka << endl;
 
-    tambah(angka);
+    tambah(angka); // Menambah angka yang tadinya 50, ditambah 10 menjadi 60
 
     cout << "Sesudah: " << angka << endl;
 
