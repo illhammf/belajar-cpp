@@ -6,7 +6,7 @@ class Mahasiswa
 {
 public:
 
-    void perkenalan()
+    void perkenalan() // Function yang berada di dalam Class disebut Method.
     {
         cout << "Halo, saya seorang mahasiswa." << endl;
     }
