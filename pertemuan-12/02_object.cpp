@@ -3,7 +3,7 @@
 
 using namespace std;
 
-class Mahasiswa
+class Mahasiswa // satu Class dapat menghasilkan banyak Object.
 {
 public:
     string nama;

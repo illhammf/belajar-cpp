@@ -6,7 +6,7 @@ using namespace std;
 class Mahasiswa
 {
 public:
-    string nama;
+    string nama; // Attribute adalah data yang dimiliki oleh Object.
     int umur;
     string jurusan;
     float ipk;
