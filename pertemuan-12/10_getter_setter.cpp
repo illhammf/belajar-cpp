@@ -28,5 +28,7 @@ int main()
 
     cout << "Umur: " << mahasiswa.getUmur() << endl;
 
+    // Setter → mengubah data
+    // Getter → mengambil data
     return 0;
 }
