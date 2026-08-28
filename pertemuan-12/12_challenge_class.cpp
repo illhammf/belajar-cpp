@@ -3,16 +3,16 @@
 
 using namespace std;
 
-class Buku
+class Buku // Class
 {
-private:
+private: // memiliki 3 atribut private
     string judul;
     string penulis;
     int tahun;
 
 public:
 
-    Buku(string judul, string penulis, int tahun)
+    Buku(string judul, string penulis, int tahun) // Ini Constructor
     {
         this->judul = judul;
         this->penulis = penulis;
