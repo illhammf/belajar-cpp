@@ -9,7 +9,7 @@ public:
     string nama;
     int umur;
 
-    void tampilkanData()
+    void tampilkanData() // Method yang menggunakan Attribute milik Object.
     {
         cout << "Nama: " << nama << endl;
         cout << "Umur: " << umur << endl;
