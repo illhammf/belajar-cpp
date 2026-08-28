@@ -14,7 +14,8 @@ public:
 
 int main()
 {
-    Mahasiswa mahasiswa;
+    // Constructor adalah Method khusus yang otomatis dijalankan ketika Object dibuat.
+    Mahasiswa mahasiswa; // Ketika kode ini dijalankan, Constructor otomatis dipanggil.
 
     return 0;
 }
