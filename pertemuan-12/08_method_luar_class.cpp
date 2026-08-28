@@ -7,9 +7,9 @@ class Mahasiswa
 public:
     void perkenalan();
 };
-
-void Mahasiswa::perkenalan()
-{
+// :: disebut Scope Resolution Operator.
+void Mahasiswa::perkenalan() // adalah Method perkenalan() milik Class Mahasiswa.
+{ 
     cout << "Halo, saya mahasiswa." << endl;
 }
 
