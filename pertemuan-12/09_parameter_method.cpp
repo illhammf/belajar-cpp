@@ -6,7 +6,7 @@ class Kalkulator
 {
 public:
 
-    int tambah(int a, int b)
+    int tambah(int a, int b) // Method bisa menerima Parameter seperti Function biasa.
     {
         return a + b;
     }
