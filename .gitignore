@@ -1,0 +1,41 @@
+# ==========================================
+# C++ Build / Compile Output
+# ==========================================
+
+# Folder output
+output/
+**/output/
+
+# Executable Windows
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Static libraries
+*.a
+*.lib
+
+# Dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Debug / build folders
+build/
+**/build/
+
+# ==========================================
+# IDE / Editor
+# ==========================================
+
+.vscode/
+.idea/
+
+# ==========================================
+# OS generated files
+# ==========================================
+
+.DS_Store
+Thumbs.db
